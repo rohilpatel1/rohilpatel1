@@ -9,4 +9,4 @@ I am a fullstack JavaScript Developer, iOS Developer, and learning C++!
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rohilpatel1&count_private=true&theme=dracula&show_icons=true&include_all_commits=true)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=rohilpatel1&theme=merko) 
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=rohilpatel1&theme=dracula) 
