@@ -1,23 +1,23 @@
-# Hi I'm Rohil! 👋
+## Hi I'm Rohil! 👋
 
-## About Me
+### About Me
 + I am a fullstack JavaScript developer
 + I am learning C++
 + I am an amateur iOS software engineer
 
-## Coding
+### Coding
 
-### Experience
+#### Experience
 + I have been coding for 2 years
 + My first language was HTML5
 
-### Languages
+#### Languages
 + HTML5
 + Node.js
 + C++
 + Swift
 
-# Stats
+## Stats
 ![](https://komarev.com/ghpvc/?username=rohilpatel1&color=red)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rohilpatel1&count_private=true&theme=dracula&show_icons=true&include_all_commits=true)
